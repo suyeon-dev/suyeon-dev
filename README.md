@@ -2,7 +2,7 @@
   
   ### Suyeon
 
-  <img align='right' width='40' src='https://github.com/user-attachments/assets/df32f676-8793-45b5-a088-2495b6bc725a'/>
+  <img align='right' width='45' src='https://github.com/user-attachments/assets/57730a52-16e7-4a7d-978a-3412c53803c2'/>
 
 <a href="/"><img src="https://img.shields.io/badge/Portfolio-017BFE?style=badge&logo=googlehome&logoColor=white"/></a> <a href="https://suyeon-dev.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-FF5544?style=badge&logo=dwavesystems&logoColor=white"/></a> <a href="https://suyeon-kata.tistory.com"><img src="https://img.shields.io/badge/Algorithm-F3DC04?style=badge&logo=thealgorithms&logoColor=white"/></a> <a href="mailto:choilynne.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D172?style=flat&logo=Gmail&logoColor=white&link=mailto:rudtjs4540@gmail.com" /></a>
 
