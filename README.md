@@ -2,11 +2,12 @@
   
   ### Suyeon
 
-  <img align='right' width='50' src='https://suyeon-bucket.s3.ap-northeast-2.amazonaws.com/suyeon.gif'/>
+  <img align='right' width='45' src='https://suyeon-bucket.s3.ap-northeast-2.amazonaws.com/suyeon.gif'/>
 
-<!-- <a href="https://github.com/suyeon-dev"><img src="https://img.shields.io/badge/Portfolio-017BFE?style=badge&logo=googlehome&logoColor=white"/></a>  -->
+<!-- <a href=""><img src="https://img.shields.io/badge/Portfolio-017BFE?style=badge&logo=googlehome&logoColor=white"/></a>  -->
 
-<a href="https://suyeon-dev.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-FF5544?style=badge&logo=dwavesystems&logoColor=white"/></a> <a href="https://suyeon-kata.tistory.com"><img src="https://img.shields.io/badge/Algorithm-F3DC04?style=badge&logo=thealgorithms&logoColor=white"/></a> <a href="mailto:choilynne.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D172?style=flat&logo=Gmail&logoColor=white&link=mailto:choilynne.dev@gmail.com" /></a>
+<a href="https://suyeon-dev.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-FF5544?style=badge&logo=dwavesystems&logoColor=white"/></a> <a href="mailto:choilynne.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-22D172?style=flat&logo=Gmail&logoColor=white&link=mailto:choilynne.dev@gmail.com" /></a>
+<!-- <a href="https://suyeon-kata.tistory.com"><img src="https://img.shields.io/badge/Algorithm-F3DC04?style=badge&logo=thealgorithms&logoColor=white"/></a> -->
 
 ---
 
