@@ -12,14 +12,14 @@ passionate about building products that make a difference.
 
 <br>
 <br>
-<br>
 
-<a href="https://suyeon-dev.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-22D172?style=badge&logo=dwavesystems&logoColor=white"/></a> <a href="https://suyeon-kata.tistory.com"><img src="https://img.shields.io/badge/Algorithm-F3DC04?style=badge&logo=thealgorithms&logoColor=white"/></a> <a href="mailto:choilynne.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF5544?style=flat&logo=Gmail&logoColor=white&link=mailto:choilynne.dev@gmail.com" /></a>
+<a href="https://suyeon-dev.tistory.com"><img src="https://img.shields.io/badge/Tech Blog-22D172?style=badge&logo=dwavesystems&logoColor=white"/></a>  <a href="mailto:choilynne.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF5544?style=flat&logo=Gmail&logoColor=white&link=mailto:choilynne.dev@gmail.com" /></a>
 
 <br>
 
 <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,styledcomponents,sass,git,vscode,nodejs,mysql,aws&perline=6"/>
 
+<br>
 <br>
 <br>
 
