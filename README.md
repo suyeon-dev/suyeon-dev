@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-Enthusiastic learner diving deep into the unknown, <br>
-passionate about building products that make a difference.
+An enthusiastic learner diving deep into the unknown. <br>
+Passionate about building products that make a difference.
 
 <br>
 <br>
